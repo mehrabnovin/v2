@@ -1,1 +1,7 @@
+#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTAg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/Epodonios/v2ray-configs
+#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5.10.214.63%3A8880
